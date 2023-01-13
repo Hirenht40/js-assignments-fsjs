@@ -10,9 +10,24 @@ Created simple project which incraese the counter evry time we click on the butt
 
 - DOM Manipulation.
 
-### Demo
+### Output
 
 ![image name](./ClickTheButton/Image/ClickTheButton.gif)
+
+## Project name: Name conversion
+
+This project will convert text to diffrent case.
+
+### Key learnings
+
+- DOM Manipulation
+- String methods
+
+### Output
+
+![image name](./02NameConversion/Image/Name_Conversion_1.PNG)
+
+
 
 
 
