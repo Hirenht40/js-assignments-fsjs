@@ -27,6 +27,19 @@ This project will convert text to diffrent case.
 
 ![image name](./02NameConversion/Image/Name_Conversion_1.PNG)
 
+## Project name: Color changer
+
+This project will change background color of canvas when we click the button.
+
+### Key learnings
+
+- DOM Manipulation
+- Math function
+
+### Output
+
+![image name](./03ColorChanger/Image/ColorChanger.gif)
+
 
 
 
