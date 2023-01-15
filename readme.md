@@ -10,7 +10,7 @@ Created simple project which incraese the counter evry time we click on the butt
 
 - DOM Manipulation.
 
-### Output
+### Output:
 
 ![image name](./ClickTheButton/Image/ClickTheButton.gif)
 
@@ -23,7 +23,7 @@ This project will convert text to diffrent case.
 - DOM Manipulation
 - String methods
 
-### Output
+### Output:
 
 ![image name](./02NameConversion/Image/Name_Conversion_1.PNG)
 
@@ -36,7 +36,7 @@ This project will change background color of canvas when we click the button.
 - DOM Manipulation
 - Math function
 
-### Output
+### Output:
 
 ![image name](./03ColorChanger/Image/ColorChanger.gif)
 
