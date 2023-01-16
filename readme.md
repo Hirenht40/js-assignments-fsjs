@@ -40,6 +40,17 @@ This project will change background color of canvas when we click the button.
 
 ![image name](./03ColorChanger/Image/ColorChanger.gif)
 
+## Project name: See What you type
+
+This project will write the text which you write in the input.
+### Key learnings
+
+- DOM Manipulation
+
+### Output:
+
+![image name](./SeeWhatYouType/Image/See_What_You_Type.gif)
+
 
 
 
