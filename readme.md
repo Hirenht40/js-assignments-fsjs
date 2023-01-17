@@ -51,6 +51,19 @@ This project will write the text which you write in the input.
 
 ![image name](./SeeWhatYouType/Image/See_What_You_Type.gif)
 
+## Project name: Basic counter
+
+This basic project will increase or decrease count based on button clicked.
+
+### Key learnings
+
+- DOM Manipulation
+
+### Output:
+
+![image name](./BasicCounter/Image/Basic_Counter.gif)
+
+
 
 
 
