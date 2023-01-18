@@ -63,6 +63,19 @@ This basic project will increase or decrease count based on button clicked.
 
 ![image name](./BasicCounter/Image/Basic_Counter.gif)
 
+## Project name: Jokes genrator API
+
+This project will provide random jokes with the help of API.
+
+### Key learnings
+
+- API
+- DOM Manipulation
+
+### Output:
+
+![image name](./06JokesGenerator%20-%20API/Image/Project.gif)
+
 
 
 
