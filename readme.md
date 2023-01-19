@@ -76,6 +76,18 @@ This project will provide random jokes with the help of API.
 
 ![image name](./06JokesGenerator%20-%20API/Image/Project.gif)
 
+## Project name: Binary to Decimal converter
+This project will covert binary number to decimal number.
+
+### Key learnings
+
+- DOM Manipulation
+
+### Output:
+
+![image name](./Binary2Decimal/Image/Binary_Decimal.gif)
+
+
 
 
 
