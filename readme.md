@@ -2,7 +2,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
 
-## Project name: Click The Button
+## 1) Project name: Click The Button
 
 Created simple project which incraese the counter evry time we click on the button.
 
@@ -14,7 +14,7 @@ Created simple project which incraese the counter evry time we click on the butt
 
 ![image name](./ClickTheButton/Image/ClickTheButton.gif)
 
-## Project name: Name conversion
+## 2) Project name: Name conversion
 
 This project will convert text to diffrent case.
 
@@ -27,7 +27,7 @@ This project will convert text to diffrent case.
 
 ![image name](./02NameConversion/Image/Name_Conversion_1.PNG)
 
-## Project name: Color changer
+## 3) Project name: Color changer
 
 This project will change background color of canvas when we click the button.
 
@@ -40,7 +40,7 @@ This project will change background color of canvas when we click the button.
 
 ![image name](./03ColorChanger/Image/ColorChanger.gif)
 
-## Project name: See What you type
+## 4) Project name: See What you type
 
 This project will write the text which you write in the input.
 ### Key learnings
@@ -51,7 +51,7 @@ This project will write the text which you write in the input.
 
 ![image name](./SeeWhatYouType/Image/See_What_You_Type.gif)
 
-## Project name: Basic counter
+## 5) Project name: Basic counter
 
 This basic project will increase or decrease count based on button clicked.
 
@@ -63,7 +63,7 @@ This basic project will increase or decrease count based on button clicked.
 
 ![image name](./BasicCounter/Image/Basic_Counter.gif)
 
-## Project name: Jokes genrator API
+## 6) Project name: Jokes genrator API
 
 This project will provide random jokes with the help of API.
 
@@ -76,7 +76,7 @@ This project will provide random jokes with the help of API.
 
 ![image name](./06JokesGenerator%20-%20API/Image/Project.gif)
 
-## Project name: Binary to Decimal converter
+## 7) Project name: Binary to Decimal converter
 This project will covert binary number to decimal number.
 
 ### Key learnings
